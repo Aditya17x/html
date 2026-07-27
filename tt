@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Time Table</title>
+</head>
+
+<body>
+
+<h2 align="center">Class Time Table</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" align="center">
+<tr>
+<th>Day</th>
+<th>9-10</th>
+<th>10-11</th>
+<th>11-12</th>
+<th>12-1</th>
+</tr>
+
+<tr>
+<td>Monday</td>
+<td>Math</td>
+<td>HTML</td>
+<td>DBMS</td>
+<td>Python</td>
+</tr>
+
+<tr>
+<td>Tuesday</td>
+<td>Java</td>
+<td>OS</td>
+<td>CN</td>
+<td>Library</td>
+</tr>
+
+<tr>
+<td>Wednesday</td>
+<td>C</td>
+<td>Math</td>
+<td>Python</td>
+<td>Sports</td>
+</tr>
+
+</table>
+
+</body>
+</html>
